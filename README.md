@@ -16,6 +16,8 @@
     &nbsp;
     <img src="https://img.shields.io/badge/Location-Bogor,%20ID%20🇮🇩-blue?style=for-the-badge&logo=googlemaps&logoColor=white&color=0284c7&labelColor=0f172a" alt="Location" />
     &nbsp;
+    <br />
+    <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ferdiansyahep.ferdiansyahep&left_text=Profile%20Views&left_color=0f172a&right_color=38bdf8" alt="Profile Views" />
   </p>
 
@@ -57,7 +59,7 @@ const developer = {
   specialties: ["Full-Stack", "Agentic AI", "Cloud / GCP"],
   techCore: ["Python", "JavaScript", "TypeScript", "React", "Node.js", "GCP"],
   aiFocus: ["Agentic AI", "LLM Orchestration", "Autonomous Workflows"],
-  availability: "Open to opportunities 🚀"
+  availability: "Open to opportunities 🚀",
 };
 ```
 
@@ -112,14 +114,14 @@ const developer = {
 
 <div align="center">
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,js,ts,html,css&theme=dark" alt="Languages" /></a> |
-| **AI & Cloud** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="GCP" /></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" alt="Linux & Bash" /></a> |
-| **Frontend Frameworks** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend" /></a> |
-| **Backend & Runtime** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend" /></a> |
-| **Databases** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="Databases" /></a> |
-| **Tools & Environment** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" alt="Tools" /></a> |
+| Category                | Technologies & Tools                                                                                                                                                                                                                  |
+| :---------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Languages**           | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,js,ts,html,css&theme=dark" alt="Languages" /></a>                                                                                                        |
+| **AI & Cloud**          | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="GCP" /></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" alt="Linux & Bash" /></a> |
+| **Frontend Frameworks** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend" /></a>                                                                                           |
+| **Backend & Runtime**   | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend" /></a>                                                                                                             |
+| **Databases**           | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="Databases" /></a>                                                                                                   |
+| **Tools & Environment** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" alt="Tools" /></a>                                                                                              |
 
 </div>
 
