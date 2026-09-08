@@ -20,8 +20,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Salsa&size=40&duration=3000&pause=500&color=2A98D4&center=true&vCenter=true&random=false&width=600&height=75&lines=Hi+There!%F0%9F%91%8B;I%27m+Ferdiansyah+Eka+Putra" />
 </h1>
 
-
-
 ###
 
 <div align="left">
@@ -70,4 +68,8 @@
   <img src="https://skillicons.dev/icons?i=bash" height="45" alt="bash logo"  />
 </div>
 
-![github-contribution-grid-snake-dark](https://github.com/Wibiemahardhika22/wibiemahardhika22/assets/89759299/733f6f68-cd20-4585-937d-75a2613534f9)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ferdiansyahep/ferdiansyahep/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ferdiansyahep/ferdiansyahep/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ferdiansyahep/ferdiansyahep/output/github-contribution-grid-snake.svg">
+</picture>
