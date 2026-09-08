@@ -21,6 +21,23 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Generate GitHub Activity Graph
+        run: |
+          python3 scripts/generate_activity_graph.py
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add assets/github-activity.svg
+          git commit -m "Update GitHub Activity SVG [skip ci]" || echo "No changes to commit"
+          git push origin main || echo "No push required"
+
       # Generasi animasi ular dari grafik kontribusi
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3

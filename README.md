@@ -144,7 +144,15 @@ const developer = {
 
 ---
 
-### 🐍 Contribution Activity
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="./assets/github-activity.svg" width="100%" alt="GitHub Activity Heatmap" />
+</div>
+
+---
+
+### 🐍 Snake Contribution Animation
 
 <div align="center">
   <p><sub><i>Watch the snake eat contribution commits & grow across the grid! 🐍</i></sub></p>
