@@ -1,0 +1,23 @@
+<svg fill="none" viewBox="0 0 900 110" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0b0f19" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#0369a1" />
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="110" rx="14" fill="url(#footerGrad)" />
+
+  <g opacity="0.06" stroke="#38bdf8" stroke-width="1">
+    <line x1="0" y1="35" x2="900" y2="35" />
+    <line x1="0" y1="75" x2="900" y2="75" />
+    <line x1="225" y1="0" x2="225" y2="110" />
+    <line x1="450" y1="0" x2="450" y2="110" />
+    <line x1="675" y1="0" x2="675" y2="110" />
+  </g>
+
+  <!-- Flowing Waves -->
+  <path d="M 0,40 Q 250,75 500,45 T 900,60 L 900,0 L 0,0 Z" fill="#0284c7" opacity="0.18" />
+  <path d="M 0,25 Q 220,55 450,30 T 900,40 L 900,0 L 0,0 Z" fill="#38bdf8" opacity="0.12" />
+</svg>
