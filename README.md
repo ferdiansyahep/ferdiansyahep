@@ -29,7 +29,7 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     &nbsp;
-    <a href="mailto:ferdiansyahekaputra@gmail.com" target="_blank">
+    <a href="mailto:ferdiansyah.chimon24@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     &nbsp;
@@ -90,14 +90,6 @@
 | **Databases**           | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="Databases" />           |
 | **Tools & Environment** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,bash&theme=dark" alt="Tools" /> |
 
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ferdiansyahep&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
