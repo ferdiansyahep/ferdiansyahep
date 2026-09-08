@@ -35,26 +35,21 @@
 
 ### 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <h4>⚡ Quick Intro</h4>
-      <p>
-        Hi! I'm <b>Ferdiansyah Eka Putra</b>, an <b>Information Systems Graduate (S.Kom)</b> from <b>Universitas Ahmad Dahlan (UAD)</b>, Yogyakarta, currently based in <b>Bogor, Indonesia</b>.
-      </p>
-      <p>
-        I specialize in <b>Full-Stack Web Development</b>, <b>Agentic AI</b>, and <b>Cloud Engineering (GCP)</b>. I'm passionate about building modern web applications and developing autonomous, tool-calling AI agent workflows that solve real-world problems.
-      </p>
-      <ul>
-        <li>🔭 <b>Primary Stack:</b> JavaScript / TypeScript, React, Next.js, Node.js, Python, and GCP.</li>
-        <li>🤖 <b>AI & Cloud:</b> Autonomous Agents, LLM Orchestration, Prompt Engineering & Cloud Solutions.</li>
-        <li>🌱 <b>Continuous Growth:</b> Deepening knowledge in Multi-Agent Systems, Cloud Native Apps & Distributed Backends.</li>
-        <li>💼 <b>Career:</b> Actively seeking full-time, contract, or freelance software & AI engineering opportunities.</li>
-      </ul>
-    </td>
-    <td width="45%" valign="top">
-      <h4>💻 Developer Profile</h4>
-      <pre><code>const developer = {
+<p>
+  Hi there! I'm <b>Ferdiansyah Eka Putra</b>, an <b>Information Systems Graduate (S.Kom)</b> from <b>Universitas Ahmad Dahlan (UAD)</b>, Yogyakarta, currently based in <b>Bogor, Indonesia</b>.
+</p>
+
+<p>
+  I specialize in <b>Full-Stack Web Development</b>, <b>Agentic AI</b>, and <b>Cloud Engineering (GCP)</b>. I'm passionate about architecting scalable, modern web applications and engineering autonomous, tool-calling AI agent workflows that automate complex tasks.
+</p>
+
+- 🔭 **Primary Stack:** JavaScript / TypeScript, React, Next.js, Node.js, Python, and Google Cloud Platform (GCP).
+- 🤖 **AI & Cloud Engineering:** Autonomous Agents, LLM Orchestration, Prompt Engineering & Cloud-native deployments.
+- 🌱 **Continuous Growth:** Deepening expertise in Multi-Agent Frameworks, Microservices & Distributed Architectures.
+- 💼 **Career:** Actively seeking full-time, contract, or freelance software & AI engineering opportunities.
+
+```javascript
+const developer = {
   name: "Ferdiansyah Eka Putra",
   degree: "S.Kom. in Information Systems",
   almaMater: "Universitas Ahmad Dahlan (UAD)",
@@ -63,10 +58,8 @@
   techCore: ["Python", "JavaScript", "TypeScript", "React", "Node.js", "GCP"],
   aiFocus: ["Agentic AI", "LLM Orchestration", "Autonomous Workflows"],
   availability: "Open to opportunities 🚀"
-};</code></pre>
-    </td>
-  </tr>
-</table>
+};
+```
 
 ---
 
