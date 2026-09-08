@@ -27,7 +27,7 @@
     <a href="#-core-competencies"><b>⚡ What I Do</b></a> •
     <a href="#-current-focus--initiatives"><b>🚀 Focus Areas</b></a> •
     <a href="#️-tech-stack--arsenal"><b>🛠️ Tech Stack</b></a> •
-    <a href="#-github-analytics--stats"><b>📊 Analytics</b></a> •
+    <a href="#-github-activity"><b>📊 Activity</b></a> •
     <a href="#-get-in-touch"><b>📬 Connect</b></a>
   </p>
 
@@ -127,40 +127,10 @@ const developer = {
 
 ---
 
-### 📈 GitHub Analytics & Stats
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=ferdiansyahep&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a" width="410" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferdiansyahep&theme=tokyonight&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=94a3b8&sideLabels=94a3b8&dates=64748b&background=0f172a" width="410" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="./assets/github-activity.svg" width="100%" alt="GitHub Activity Heatmap" />
-</div>
-
----
-
-### 🐍 Snake Contribution Animation
-
-<div align="center">
-  <p><sub><i>Watch the snake eat contribution commits & grow across the grid! 🐍</i></sub></p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ferdiansyahep/ferdiansyahep/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ferdiansyahep/ferdiansyahep/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ferdiansyahep/ferdiansyahep/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
+  <img src="https://gitlyy.vercel.app/api/contribution?username=ferdiansyahep&hide_border=true" width="100%" alt="GitHub Activity Heatmap" />
 </div>
 
 ---
