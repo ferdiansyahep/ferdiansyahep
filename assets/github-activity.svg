@@ -760,10 +760,12 @@
 <text x="867.2" y="135.8" fill="#ffffff" class="cell-text">10</text>
 <rect x="861.0" y="145.0" width="12.5" height="12.5" rx="2.5" fill="#26a641" />
 <text x="867.2" y="151.8" fill="#ffffff" class="cell-text">12</text>
-<rect x="861.0" y="161.0" width="12.5" height="12.5" rx="2.5" fill="#006d32" />
-<text x="867.2" y="167.8" fill="#aff5b4" class="cell-text">8</text>
+<rect x="861.0" y="161.0" width="12.5" height="12.5" rx="2.5" fill="#26a641" />
+<text x="867.2" y="167.8" fill="#ffffff" class="cell-text">9</text>
 <rect x="877.0" y="65.0" width="12.5" height="12.5" rx="2.5" fill="#0e4429" />
 <text x="883.2" y="71.8" fill="#7ee787" class="cell-text">1</text>
+<rect x="877.0" y="81.0" width="12.5" height="12.5" rx="2.5" fill="#0e4429" />
+<text x="883.2" y="87.8" fill="#7ee787" class="cell-text">4</text>
 <text x="45" y="197.0" class="legend-text">Less</text>
 <rect x="75" y="189.0" width="9" height="9" rx="2" fill="#161b22" />
 <rect x="87" y="189.0" width="9" height="9" rx="2" fill="#0e4429" />
